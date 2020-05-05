@@ -1,0 +1,18 @@
+character_name="Gwen"
+character_type="Nordic God"
+character_age="470"
+colour="white"
+print("A", character_type, "named", character_name, "was almost", character_age, "years old")
+print("Every", (character_type.upper()), "knows that when you turn", character_age, "it's time for a change ")
+print((character_name.upper)(), "sometimes liked to look at thinks that were coloured",(colour.title()),",but this wasn't enough")
+print()
+character_name="Grimstone"
+character_type="Human Blacksmith"
+character_adj="blunt"
+character_adj_1="zealous"
+character_noun="chalice"
+print("One day she decided that she wanted a new name, so thought that", character_name, "would do")
+print(character_name, "really wanted to turn into a",colour, character_type )
+print("but thought that it would be too", character_adj,"without a", character_adj_1, character_noun)
+print("The", (character_adj_1.upper()), (character_noun.lower()), "was magical and helped with their transition into a", colour,character_type)
+print("The End")
